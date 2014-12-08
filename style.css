@@ -1,6 +1,6 @@
 h2 {
     text-decoration: underline;
-    font-family: 'lobster two';
+    font-family:'Quicksand', sans-serif;
 }
 
 h1 {
@@ -8,8 +8,18 @@ h1 {
     font-family: 'lobster two';
 }
 
+h3 {
+    font-family:'Quicksand', sans-serif;
+    padding:0;
+}
+    
 p {
+    font-family:'Quicksand', sans-serif;
    
+}
+
+ul, ol{
+    padding:0;
 }
 
 main { 
@@ -38,5 +48,20 @@ header li {
                 width:33%;
                 texte-align:center;
                 font-family: 'lobster two';
-                background-color: #424242
+                background-color: #424242;
+                text-align: center;
+}
+
+main a {
+    text-decoration:none;
+    color:white;
+    font-family:'lobster two';
+    background-color: #424242;
+    padding-top: 5px; 
+    padding-bottom: 5px;
+    
+}
+
+main li {
+    font-family:'Quicksand', sans-serif
 }
