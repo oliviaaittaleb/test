@@ -42,6 +42,10 @@ header a {
               text-decoration:none;
 }
 
+header li:hover {
+    background-color:#C0C0C0;
+}
+
 header li {
                 liste-style:none;
                 display:inline-block;
@@ -64,4 +68,14 @@ main a {
 
 main li {
     font-family:'Quicksand', sans-serif
+}
+
+.square {
+    
+    overflow:hidden;
+    -webkit-border-radius:50px;
+    -moz-border-radius:50px;
+    border-radius:550px;
+    width:180px;
+    height:175px;
 }
