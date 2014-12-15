@@ -81,3 +81,14 @@ main li {
     width:180px;
     height:175px;
 }
+
+footer li { 
+                liste-style:none;
+                display:inline-block;
+                width:33%;
+                texte-align:center;
+                font-family: 'lobster two';
+                background-color: #424242;
+                text-align: center;
+                border-radius:10px;
+}
