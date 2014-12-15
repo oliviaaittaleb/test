@@ -18,7 +18,7 @@ p {
    
 }
 
-ul, ol{
+ul, ol {
     padding:0;
 }
 
@@ -54,6 +54,8 @@ header li {
                 font-family: 'lobster two';
                 background-color: #424242;
                 text-align: center;
+                border-radius:10px;
+
 }
 
 main a {
@@ -67,7 +69,7 @@ main a {
 }
 
 main li {
-    font-family:'Quicksand', sans-serif
+    font-family:'Quicksand', sans-serif;
 }
 
 .square {
